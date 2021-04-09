@@ -2,9 +2,7 @@
 2. Após os 5 reservados,  o sistema informa: o número do ingresso, o nome de quem reservou e se é meia ou não. */
 
 const ler = require ("prompt-sync")();
-var inteira = 0;
 var meia = 0;
-var cliente = 0;
 var nomes = [];
 var Ingresso = [];
 
@@ -33,8 +31,6 @@ while(nomes.length <= 5){
     Ingresso.push(pagante);
 
 }
-// console.log(nomes)
-// console.log(tipoIngresso)
 for(i = 0; i < 5; i++){
 console.log("\nNome: " + nomes[i] + "\nNumero ingresso: "+ i + "\nTipo ingresso: " + Ingresso[i]);
 }
