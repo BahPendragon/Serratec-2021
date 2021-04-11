@@ -1,0 +1,7 @@
+console.log("Segunda-feira: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Terça-feira: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Quarta-feira: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Quinta-feira: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Sexta-feira: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Sábado: Bom Dia, Boa Tarde, Boa Noite")
+console.log("Domingo: Bom Dia, Boa Tarde, Boa Noite")

@@ -1,0 +1,10 @@
+var H="Com"
+var o="grandes poderes"
+var m=" "
+var e=", vêm"
+var A="gran" 
+var r="des"
+var a=" "
+var n="responsabilidades"
+var h="."
+console.log(H,o+m+e+m+A+r+a+n+h+a)
